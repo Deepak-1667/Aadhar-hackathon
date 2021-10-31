@@ -11,7 +11,9 @@ REQUIREMETS
 The venv file is Virtualenvironment to run django project
 
 go to file addres_update and run 
+
 command to run
+
  python manage.py runserver
  
  
